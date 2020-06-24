@@ -1,3 +1,8 @@
+ ## About Election Data Visualiser. 
+A web map app that can dynamically display the results of the 2019 Nigerian
+presidential election at states level for the various political parties on a web map. Author's Undergraduate Final Year Project.
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
